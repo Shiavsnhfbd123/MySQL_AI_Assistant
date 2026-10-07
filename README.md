@@ -254,5 +254,4 @@ Pending plans and query history are intentionally in-memory for this local appli
 - Restricted CORS origins for local development
 
 If an API key was ever committed, pasted, logged, or hardcoded in source code, revoke it at the provider and create a new one before using this project.
-#   M y S Q L _ A I _ A s s i s t a n t  
- 
+#
